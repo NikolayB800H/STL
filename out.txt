@@ -1,0 +1,8 @@
+@include <fstream>
+@include <iostream>
+@include <memory>
+@include <string>
+@include <sys/stat.h>
+
+constexpr char is_name[] =  "in.txt";
+constexpr char os_name[] = "out.txt";
